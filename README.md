@@ -4,4 +4,4 @@ To generate executable file:
 
 Benmarking and Testing: 
 
-    All output files are saved into the output folder
+    All output files are saved into the output folder, located at /sequential/output
